@@ -15,7 +15,7 @@ const Team = () => {
   const pokemonsPerPage = 12;
 
   useEffect(() => {
-    fetch("http://localhost:3001/team")
+    fetch("https://pokemonsimulator.onrender.com/team")
       .then((res) => res.json())
       .then((data) => setTeam(data))
       .catch((err) => console.error("Error:", err));
@@ -61,7 +61,7 @@ const Team = () => {
         };
 
         if (isAddMode) {
-          fetch(`http://localhost:3001/team`, {
+          fetch(`https://pokemonsimulator.onrender.com/team`, {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify(newPokemon),
@@ -73,7 +73,7 @@ const Team = () => {
             });
         } else if (selectedIndex !== null) {
           newPokemon.id = team[selectedIndex].id;
-          fetch(`http://localhost:3001/team/${team[selectedIndex].id}`, {
+          fetch(`https://pokemonsimulator.onrender.com/team/${team[selectedIndex].id}`, {
             method: "PUT",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify(newPokemon),
@@ -99,7 +99,7 @@ const Team = () => {
   );
 
   const handleRemove = (id) => {
-    fetch(`http://localhost:3001/team/${id}`, {
+    fetch(`https://pokemonsimulator.onrender.com/team/${id}`, {
       method: "DELETE",
     })
       .then(() => {

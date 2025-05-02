@@ -189,7 +189,7 @@ const Battle = ({ playerTeam, opponentTeam, onBattleEnd }) => {
     };
 
     try {
-      await fetch("http://localhost:3001/battles", {
+      await fetch("https://pokemonsimulator.onrender.com/battles", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

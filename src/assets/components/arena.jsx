@@ -9,7 +9,7 @@ const Arena = () => {
   const [showBattle, setShowBattle] = useState(false);
 
   useEffect(() => {
-    fetch("http://localhost:3001/team")
+    fetch("https://pokemonsimulator.onrender.com/team")
       .then((res) => res.json())
       .then((data) => setTeam(data))
       .catch((err) => console.error("Error:", err));

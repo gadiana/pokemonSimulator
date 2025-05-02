@@ -4,7 +4,7 @@ const History = () => {
   const [battles, setBattles] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:3001/battles")
+    fetch("https://pokemonsimulator.onrender.com/battles")
       .then((res) => res.json())
       .then((data) => setBattles(data.reverse()))
       .catch((err) => console.error("Failed to fetch battles", err));

@@ -15,8 +15,8 @@ export default function Pokedex() {
   const [adding, setAdding] = useState(false);
   const [showTeamModal, setShowTeamModal] = useState(false);
 
-  const API_URL = "http://localhost:3001/team";
-  // json-server --watch db.json --port 3001
+  const API_URL = "https://pokemonsimulator.onrender.com/team";
+
 
   const fetchPokemonList = async (
     url = "https://pokeapi.co/api/v2/pokemon?limit=20&offset=0"
@@ -204,7 +204,7 @@ export default function Pokedex() {
 
   const handleRemoveFromTeam = async (id) => {
     try {
-      await fetch(`http://localhost:3001/team/${id}`, {
+      await fetch(`https://pokemonsimulator.onrender.com/team/${id}`, {
         method: "DELETE",
       });
 
