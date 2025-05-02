@@ -1,0 +1,1888 @@
+{
+  "team": [
+    {
+      "id": "92ff",
+      "pokeId": 10044,
+      "name": "mewtwo-mega-y",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10044.png",
+      "type": "psychic",
+      "health": 150,
+      "damage": 70,
+      "speed": 140,
+      "abilities": [
+        "insomnia"
+      ]
+    },
+    {
+      "id": "7273",
+      "pokeId": 643,
+      "name": "reshiram",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png",
+      "type": "dragon",
+      "health": 120,
+      "damage": 100,
+      "speed": 90,
+      "abilities": [
+        "turboblaze"
+      ]
+    },
+    {
+      "id": "aa89",
+      "pokeId": 644,
+      "name": "zekrom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png",
+      "type": "dragon",
+      "health": 150,
+      "damage": 120,
+      "speed": 90,
+      "abilities": [
+        "teravolt"
+      ]
+    },
+    {
+      "id": "6604",
+      "pokeId": 3,
+      "name": "venusaur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+      "type": "grass",
+      "health": 82,
+      "damage": 83,
+      "speed": 80,
+      "abilities": [
+        "overgrow",
+        "chlorophyll"
+      ]
+    },
+    {
+      "id": "a3e5",
+      "pokeId": 10079,
+      "name": "rayquaza-mega",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10079.png",
+      "type": "dragon",
+      "health": 180,
+      "damage": 100,
+      "speed": 115,
+      "abilities": [
+        "delta-stream"
+      ]
+    },
+    {
+      "id": "d68f",
+      "pokeId": 249,
+      "name": "lugia",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png",
+      "type": "psychic",
+      "health": 90,
+      "damage": 130,
+      "speed": 110,
+      "abilities": [
+        "pressure",
+        "multiscale"
+      ]
+    }
+  ],
+  "battles": [
+    {
+      "id": "7581",
+      "date": "4/24/2025, 8:32:23 PM",
+      "result": "win",
+      "playerUsed": [
+        {
+          "id": "b81d",
+          "pokeId": 3,
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+          "type": "grass",
+          "health": 82,
+          "damage": 83,
+          "speed": 80,
+          "abilities": [
+            "overgrow",
+            "chlorophyll"
+          ]
+        },
+        {
+          "id": "debb",
+          "pokeId": 6,
+          "name": "charizard",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+          "type": "fire",
+          "health": 84,
+          "damage": 78,
+          "speed": 100,
+          "abilities": [
+            "blaze",
+            "solar-power"
+          ]
+        },
+        {
+          "id": "d942",
+          "pokeId": 18,
+          "name": "pidgeot",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+          "type": "normal",
+          "health": 80,
+          "damage": 75,
+          "speed": 101,
+          "abilities": [
+            "keen-eye",
+            "tangled-feet",
+            "big-pecks"
+          ]
+        },
+        {
+          "id": "92ff",
+          "pokeId": 10044,
+          "name": "mewtwo-mega-y",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10044.png",
+          "type": "psychic",
+          "health": 150,
+          "damage": 70,
+          "speed": 140,
+          "abilities": [
+            "insomnia"
+          ]
+        },
+        {
+          "id": "7273",
+          "pokeId": 643,
+          "name": "reshiram",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png",
+          "type": "dragon",
+          "health": 120,
+          "damage": 100,
+          "speed": 90,
+          "abilities": [
+            "turboblaze"
+          ]
+        },
+        {
+          "id": "aa89",
+          "pokeId": 644,
+          "name": "zekrom",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png",
+          "type": "dragon",
+          "health": 150,
+          "damage": 120,
+          "speed": 90,
+          "abilities": [
+            "teravolt"
+          ]
+        }
+      ],
+      "playerAlive": [
+        {
+          "id": "b81d",
+          "pokeId": 3,
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+          "type": "grass",
+          "health": 82,
+          "damage": 83,
+          "speed": 80,
+          "abilities": [
+            "overgrow",
+            "chlorophyll"
+          ]
+        },
+        {
+          "id": "debb",
+          "pokeId": 6,
+          "name": "charizard",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+          "type": "fire",
+          "health": 84,
+          "damage": 78,
+          "speed": 100,
+          "abilities": [
+            "blaze",
+            "solar-power"
+          ]
+        },
+        {
+          "id": "d942",
+          "pokeId": 18,
+          "name": "pidgeot",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+          "type": "normal",
+          "health": 80,
+          "damage": 75,
+          "speed": 101,
+          "abilities": [
+            "keen-eye",
+            "tangled-feet",
+            "big-pecks"
+          ]
+        },
+        {
+          "id": "7273",
+          "pokeId": 643,
+          "name": "reshiram",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png",
+          "type": "dragon",
+          "health": 120,
+          "damage": 100,
+          "speed": 90,
+          "abilities": [
+            "turboblaze"
+          ]
+        }
+      ],
+      "playerDead": [
+        {
+          "id": "92ff",
+          "pokeId": 10044,
+          "name": "mewtwo-mega-y",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10044.png",
+          "type": "psychic",
+          "health": 150,
+          "damage": 70,
+          "speed": 140,
+          "abilities": [
+            "insomnia"
+          ]
+        },
+        {
+          "id": "aa89",
+          "pokeId": 644,
+          "name": "zekrom",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png",
+          "type": "dragon",
+          "health": 150,
+          "damage": 120,
+          "speed": 90,
+          "abilities": [
+            "teravolt"
+          ]
+        }
+      ],
+      "opponentAlive": [],
+      "opponentDead": [
+        {
+          "pokeId": 531,
+          "name": "audino",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/531.png",
+          "type": "normal",
+          "health": 103,
+          "damage": 60,
+          "speed": 50,
+          "abilities": [
+            "healer",
+            "regenerator",
+            "klutz"
+          ]
+        },
+        {
+          "pokeId": 581,
+          "name": "swanna",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/581.png",
+          "type": "water",
+          "health": 75,
+          "damage": 87,
+          "speed": 98,
+          "abilities": [
+            "keen-eye",
+            "big-pecks",
+            "hydration"
+          ]
+        },
+        {
+          "pokeId": 315,
+          "name": "roselia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/315.png",
+          "type": "grass",
+          "health": 50,
+          "damage": 60,
+          "speed": 65,
+          "abilities": [
+            "natural-cure",
+            "poison-point",
+            "leaf-guard"
+          ]
+        },
+        {
+          "pokeId": 239,
+          "name": "elekid",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png",
+          "type": "electric",
+          "health": 45,
+          "damage": 63,
+          "speed": 95,
+          "abilities": [
+            "static",
+            "vital-spirit"
+          ]
+        },
+        {
+          "pokeId": 757,
+          "name": "salandit",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/757.png",
+          "type": "poison",
+          "health": 48,
+          "damage": 44,
+          "speed": 77,
+          "abilities": [
+            "corrosion",
+            "oblivious"
+          ]
+        },
+        {
+          "pokeId": 614,
+          "name": "beartic",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/614.png",
+          "type": "ice",
+          "health": 95,
+          "damage": 130,
+          "speed": 50,
+          "abilities": [
+            "snow-cloak",
+            "slush-rush",
+            "swift-swim"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3810",
+      "date": "4/24/2025, 8:37:14 PM",
+      "result": "win",
+      "playerUsed": [
+        {
+          "id": "b81d",
+          "pokeId": 3,
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+          "type": "grass",
+          "health": 82,
+          "damage": 83,
+          "speed": 80,
+          "abilities": [
+            "overgrow",
+            "chlorophyll"
+          ]
+        },
+        {
+          "id": "debb",
+          "pokeId": 6,
+          "name": "charizard",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+          "type": "fire",
+          "health": 84,
+          "damage": 78,
+          "speed": 100,
+          "abilities": [
+            "blaze",
+            "solar-power"
+          ]
+        },
+        {
+          "id": "d942",
+          "pokeId": 18,
+          "name": "pidgeot",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+          "type": "normal",
+          "health": 80,
+          "damage": 75,
+          "speed": 101,
+          "abilities": [
+            "keen-eye",
+            "tangled-feet",
+            "big-pecks"
+          ]
+        },
+        {
+          "id": "92ff",
+          "pokeId": 10044,
+          "name": "mewtwo-mega-y",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10044.png",
+          "type": "psychic",
+          "health": 150,
+          "damage": 70,
+          "speed": 140,
+          "abilities": [
+            "insomnia"
+          ]
+        },
+        {
+          "id": "7273",
+          "pokeId": 643,
+          "name": "reshiram",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png",
+          "type": "dragon",
+          "health": 120,
+          "damage": 100,
+          "speed": 90,
+          "abilities": [
+            "turboblaze"
+          ]
+        },
+        {
+          "id": "aa89",
+          "pokeId": 644,
+          "name": "zekrom",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png",
+          "type": "dragon",
+          "health": 150,
+          "damage": 120,
+          "speed": 90,
+          "abilities": [
+            "teravolt"
+          ]
+        }
+      ],
+      "playerAlive": [
+        {
+          "id": "b81d",
+          "pokeId": 3,
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+          "type": "grass",
+          "health": 82,
+          "damage": 83,
+          "speed": 80,
+          "abilities": [
+            "overgrow",
+            "chlorophyll"
+          ]
+        },
+        {
+          "id": "debb",
+          "pokeId": 6,
+          "name": "charizard",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+          "type": "fire",
+          "health": 84,
+          "damage": 78,
+          "speed": 100,
+          "abilities": [
+            "blaze",
+            "solar-power"
+          ]
+        },
+        {
+          "id": "92ff",
+          "pokeId": 10044,
+          "name": "mewtwo-mega-y",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10044.png",
+          "type": "psychic",
+          "health": 150,
+          "damage": 70,
+          "speed": 140,
+          "abilities": [
+            "insomnia"
+          ]
+        },
+        {
+          "id": "7273",
+          "pokeId": 643,
+          "name": "reshiram",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png",
+          "type": "dragon",
+          "health": 120,
+          "damage": 100,
+          "speed": 90,
+          "abilities": [
+            "turboblaze"
+          ]
+        },
+        {
+          "id": "aa89",
+          "pokeId": 644,
+          "name": "zekrom",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png",
+          "type": "dragon",
+          "health": 150,
+          "damage": 120,
+          "speed": 90,
+          "abilities": [
+            "teravolt"
+          ]
+        }
+      ],
+      "playerDead": [
+        {
+          "id": "d942",
+          "pokeId": 18,
+          "name": "pidgeot",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+          "type": "normal",
+          "health": 80,
+          "damage": 75,
+          "speed": 101,
+          "abilities": [
+            "keen-eye",
+            "tangled-feet",
+            "big-pecks"
+          ]
+        }
+      ],
+      "opponentAlive": [],
+      "opponentDead": [
+        {
+          "pokeId": 192,
+          "name": "sunflora",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/192.png",
+          "type": "grass",
+          "health": 75,
+          "damage": 75,
+          "speed": 30,
+          "abilities": [
+            "chlorophyll",
+            "solar-power",
+            "early-bird"
+          ]
+        },
+        {
+          "pokeId": 375,
+          "name": "metang",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png",
+          "type": "steel",
+          "health": 60,
+          "damage": 75,
+          "speed": 50,
+          "abilities": [
+            "clear-body",
+            "light-metal"
+          ]
+        },
+        {
+          "pokeId": 310,
+          "name": "manectric",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/310.png",
+          "type": "electric",
+          "health": 70,
+          "damage": 75,
+          "speed": 105,
+          "abilities": [
+            "static",
+            "lightning-rod",
+            "minus"
+          ]
+        },
+        {
+          "pokeId": 559,
+          "name": "scraggy",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/559.png",
+          "type": "dark",
+          "health": 50,
+          "damage": 75,
+          "speed": 48,
+          "abilities": [
+            "shed-skin",
+            "moxie",
+            "intimidate"
+          ]
+        },
+        {
+          "pokeId": 983,
+          "name": "kingambit",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/983.png",
+          "type": "dark",
+          "health": 100,
+          "damage": 135,
+          "speed": 50,
+          "abilities": [
+            "defiant",
+            "supreme-overlord",
+            "pressure"
+          ]
+        },
+        {
+          "pokeId": 237,
+          "name": "hitmontop",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png",
+          "type": "fighting",
+          "health": 50,
+          "damage": 95,
+          "speed": 70,
+          "abilities": [
+            "intimidate",
+            "technician",
+            "steadfast"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6f8",
+      "date": "4/24/2025, 8:42:52 PM",
+      "result": "win",
+      "playerUsed": [
+        {
+          "id": "b81d",
+          "pokeId": 3,
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+          "type": "grass",
+          "health": 82,
+          "damage": 83,
+          "speed": 80,
+          "abilities": [
+            "overgrow",
+            "chlorophyll"
+          ]
+        },
+        {
+          "id": "debb",
+          "pokeId": 6,
+          "name": "charizard",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+          "type": "fire",
+          "health": 84,
+          "damage": 78,
+          "speed": 100,
+          "abilities": [
+            "blaze",
+            "solar-power"
+          ]
+        },
+        {
+          "id": "d942",
+          "pokeId": 18,
+          "name": "pidgeot",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+          "type": "normal",
+          "health": 80,
+          "damage": 75,
+          "speed": 101,
+          "abilities": [
+            "keen-eye",
+            "tangled-feet",
+            "big-pecks"
+          ]
+        },
+        {
+          "id": "92ff",
+          "pokeId": 10044,
+          "name": "mewtwo-mega-y",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10044.png",
+          "type": "psychic",
+          "health": 150,
+          "damage": 70,
+          "speed": 140,
+          "abilities": [
+            "insomnia"
+          ]
+        },
+        {
+          "id": "7273",
+          "pokeId": 643,
+          "name": "reshiram",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png",
+          "type": "dragon",
+          "health": 120,
+          "damage": 100,
+          "speed": 90,
+          "abilities": [
+            "turboblaze"
+          ]
+        },
+        {
+          "id": "aa89",
+          "pokeId": 644,
+          "name": "zekrom",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png",
+          "type": "dragon",
+          "health": 150,
+          "damage": 120,
+          "speed": 90,
+          "abilities": [
+            "teravolt"
+          ]
+        }
+      ],
+      "playerAlive": [
+        {
+          "id": "debb",
+          "pokeId": 6,
+          "name": "charizard",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+          "type": "fire",
+          "health": 84,
+          "damage": 78,
+          "speed": 100,
+          "abilities": [
+            "blaze",
+            "solar-power"
+          ]
+        },
+        {
+          "id": "d942",
+          "pokeId": 18,
+          "name": "pidgeot",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+          "type": "normal",
+          "health": 80,
+          "damage": 75,
+          "speed": 101,
+          "abilities": [
+            "keen-eye",
+            "tangled-feet",
+            "big-pecks"
+          ]
+        },
+        {
+          "id": "92ff",
+          "pokeId": 10044,
+          "name": "mewtwo-mega-y",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10044.png",
+          "type": "psychic",
+          "health": 150,
+          "damage": 70,
+          "speed": 140,
+          "abilities": [
+            "insomnia"
+          ]
+        },
+        {
+          "id": "7273",
+          "pokeId": 643,
+          "name": "reshiram",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png",
+          "type": "dragon",
+          "health": 120,
+          "damage": 100,
+          "speed": 90,
+          "abilities": [
+            "turboblaze"
+          ]
+        },
+        {
+          "id": "aa89",
+          "pokeId": 644,
+          "name": "zekrom",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png",
+          "type": "dragon",
+          "health": 150,
+          "damage": 120,
+          "speed": 90,
+          "abilities": [
+            "teravolt"
+          ]
+        }
+      ],
+      "playerDead": [
+        {
+          "id": "b81d",
+          "pokeId": 3,
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+          "type": "grass",
+          "health": 82,
+          "damage": 83,
+          "speed": 80,
+          "abilities": [
+            "overgrow",
+            "chlorophyll"
+          ]
+        }
+      ],
+      "opponentAlive": [],
+      "opponentDead": [
+        {
+          "pokeId": 833,
+          "name": "chewtle",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/833.png",
+          "type": "water",
+          "health": 50,
+          "damage": 64,
+          "speed": 44,
+          "abilities": [
+            "strong-jaw",
+            "shell-armor",
+            "swift-swim"
+          ]
+        },
+        {
+          "pokeId": 218,
+          "name": "slugma",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/218.png",
+          "type": "fire",
+          "health": 40,
+          "damage": 40,
+          "speed": 20,
+          "abilities": [
+            "magma-armor",
+            "flame-body",
+            "weak-armor"
+          ]
+        },
+        {
+          "pokeId": 437,
+          "name": "bronzong",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png",
+          "type": "steel",
+          "health": 67,
+          "damage": 89,
+          "speed": 33,
+          "abilities": [
+            "levitate",
+            "heatproof",
+            "heavy-metal"
+          ]
+        },
+        {
+          "pokeId": 264,
+          "name": "linoone",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/264.png",
+          "type": "normal",
+          "health": 78,
+          "damage": 70,
+          "speed": 100,
+          "abilities": [
+            "pickup",
+            "gluttony",
+            "quick-feet"
+          ]
+        },
+        {
+          "pokeId": 803,
+          "name": "poipole",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/803.png",
+          "type": "poison",
+          "health": 67,
+          "damage": 73,
+          "speed": 73,
+          "abilities": [
+            "beast-boost"
+          ]
+        },
+        {
+          "pokeId": 981,
+          "name": "farigiraf",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/981.png",
+          "type": "normal",
+          "health": 120,
+          "damage": 90,
+          "speed": 60,
+          "abilities": [
+            "cud-chew",
+            "armor-tail",
+            "sap-sipper"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b94f",
+      "date": "4/24/2025, 8:49:21 PM",
+      "result": "win",
+      "playerUsed": [
+        {
+          "id": "b81d",
+          "pokeId": 3,
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+          "type": "grass",
+          "health": 82,
+          "damage": 83,
+          "speed": 80,
+          "abilities": [
+            "overgrow",
+            "chlorophyll"
+          ]
+        },
+        {
+          "id": "debb",
+          "pokeId": 6,
+          "name": "charizard",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+          "type": "fire",
+          "health": 84,
+          "damage": 78,
+          "speed": 100,
+          "abilities": [
+            "blaze",
+            "solar-power"
+          ]
+        },
+        {
+          "id": "d942",
+          "pokeId": 18,
+          "name": "pidgeot",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+          "type": "normal",
+          "health": 80,
+          "damage": 75,
+          "speed": 101,
+          "abilities": [
+            "keen-eye",
+            "tangled-feet",
+            "big-pecks"
+          ]
+        },
+        {
+          "id": "92ff",
+          "pokeId": 10044,
+          "name": "mewtwo-mega-y",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10044.png",
+          "type": "psychic",
+          "health": 150,
+          "damage": 70,
+          "speed": 140,
+          "abilities": [
+            "insomnia"
+          ]
+        },
+        {
+          "id": "7273",
+          "pokeId": 643,
+          "name": "reshiram",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png",
+          "type": "dragon",
+          "health": 120,
+          "damage": 100,
+          "speed": 90,
+          "abilities": [
+            "turboblaze"
+          ]
+        },
+        {
+          "id": "aa89",
+          "pokeId": 644,
+          "name": "zekrom",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png",
+          "type": "dragon",
+          "health": 150,
+          "damage": 120,
+          "speed": 90,
+          "abilities": [
+            "teravolt"
+          ]
+        }
+      ],
+      "playerAlive": [
+        {
+          "id": "debb",
+          "pokeId": 6,
+          "name": "charizard",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+          "type": "fire",
+          "health": 84,
+          "damage": 78,
+          "speed": 100,
+          "abilities": [
+            "blaze",
+            "solar-power"
+          ]
+        },
+        {
+          "id": "d942",
+          "pokeId": 18,
+          "name": "pidgeot",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+          "type": "normal",
+          "health": 80,
+          "damage": 75,
+          "speed": 101,
+          "abilities": [
+            "keen-eye",
+            "tangled-feet",
+            "big-pecks"
+          ]
+        },
+        {
+          "id": "92ff",
+          "pokeId": 10044,
+          "name": "mewtwo-mega-y",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10044.png",
+          "type": "psychic",
+          "health": 150,
+          "damage": 70,
+          "speed": 140,
+          "abilities": [
+            "insomnia"
+          ]
+        },
+        {
+          "id": "7273",
+          "pokeId": 643,
+          "name": "reshiram",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png",
+          "type": "dragon",
+          "health": 120,
+          "damage": 100,
+          "speed": 90,
+          "abilities": [
+            "turboblaze"
+          ]
+        }
+      ],
+      "playerDead": [
+        {
+          "id": "b81d",
+          "pokeId": 3,
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+          "type": "grass",
+          "health": 82,
+          "damage": 83,
+          "speed": 80,
+          "abilities": [
+            "overgrow",
+            "chlorophyll"
+          ]
+        },
+        {
+          "id": "aa89",
+          "pokeId": 644,
+          "name": "zekrom",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png",
+          "type": "dragon",
+          "health": 150,
+          "damage": 120,
+          "speed": 90,
+          "abilities": [
+            "teravolt"
+          ]
+        }
+      ],
+      "opponentAlive": [],
+      "opponentDead": [
+        {
+          "pokeId": 143,
+          "name": "snorlax",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+          "type": "normal",
+          "health": 160,
+          "damage": 110,
+          "speed": 30,
+          "abilities": [
+            "immunity",
+            "thick-fat",
+            "gluttony"
+          ]
+        },
+        {
+          "pokeId": 901,
+          "name": "ursaluna",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/901.png",
+          "type": "ground",
+          "health": 130,
+          "damage": 140,
+          "speed": 50,
+          "abilities": [
+            "guts",
+            "bulletproof",
+            "unnerve"
+          ]
+        },
+        {
+          "pokeId": 584,
+          "name": "vanilluxe",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/584.png",
+          "type": "ice",
+          "health": 71,
+          "damage": 95,
+          "speed": 79,
+          "abilities": [
+            "ice-body",
+            "snow-warning",
+            "weak-armor"
+          ]
+        },
+        {
+          "pokeId": 848,
+          "name": "toxel",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/848.png",
+          "type": "electric",
+          "health": 40,
+          "damage": 38,
+          "speed": 40,
+          "abilities": [
+            "rattled",
+            "static",
+            "klutz"
+          ]
+        },
+        {
+          "pokeId": 360,
+          "name": "wynaut",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/360.png",
+          "type": "psychic",
+          "health": 95,
+          "damage": 23,
+          "speed": 23,
+          "abilities": [
+            "shadow-tag",
+            "telepathy"
+          ]
+        },
+        {
+          "pokeId": 991,
+          "name": "iron-bundle",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/991.png",
+          "type": "ice",
+          "health": 56,
+          "damage": 80,
+          "speed": 136,
+          "abilities": [
+            "quark-drive"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fec0",
+      "date": "4/24/2025, 11:16:16 PM",
+      "result": "win",
+      "playerUsed": [
+        {
+          "id": "b81d",
+          "pokeId": 3,
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+          "type": "grass",
+          "health": 82,
+          "damage": 83,
+          "speed": 80,
+          "abilities": [
+            "overgrow",
+            "chlorophyll"
+          ]
+        },
+        {
+          "id": "debb",
+          "pokeId": 6,
+          "name": "charizard",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+          "type": "fire",
+          "health": 84,
+          "damage": 78,
+          "speed": 100,
+          "abilities": [
+            "blaze",
+            "solar-power"
+          ]
+        },
+        {
+          "id": "92ff",
+          "pokeId": 10044,
+          "name": "mewtwo-mega-y",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10044.png",
+          "type": "psychic",
+          "health": 150,
+          "damage": 70,
+          "speed": 140,
+          "abilities": [
+            "insomnia"
+          ]
+        },
+        {
+          "id": "7273",
+          "pokeId": 643,
+          "name": "reshiram",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png",
+          "type": "dragon",
+          "health": 120,
+          "damage": 100,
+          "speed": 90,
+          "abilities": [
+            "turboblaze"
+          ]
+        },
+        {
+          "id": "aa89",
+          "pokeId": 644,
+          "name": "zekrom",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png",
+          "type": "dragon",
+          "health": 150,
+          "damage": 120,
+          "speed": 90,
+          "abilities": [
+            "teravolt"
+          ]
+        },
+        {
+          "id": "e3c3",
+          "pokeId": 291,
+          "name": "ninjask",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png",
+          "type": "bug",
+          "health": 90,
+          "damage": 45,
+          "speed": 160,
+          "abilities": [
+            "speed-boost",
+            "infiltrator"
+          ]
+        }
+      ],
+      "playerAlive": [
+        {
+          "id": "92ff",
+          "pokeId": 10044,
+          "name": "mewtwo-mega-y",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10044.png",
+          "type": "psychic",
+          "health": 150,
+          "damage": 70,
+          "speed": 140,
+          "abilities": [
+            "insomnia"
+          ]
+        },
+        {
+          "id": "7273",
+          "pokeId": 643,
+          "name": "reshiram",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png",
+          "type": "dragon",
+          "health": 120,
+          "damage": 100,
+          "speed": 90,
+          "abilities": [
+            "turboblaze"
+          ]
+        },
+        {
+          "id": "aa89",
+          "pokeId": 644,
+          "name": "zekrom",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png",
+          "type": "dragon",
+          "health": 150,
+          "damage": 120,
+          "speed": 90,
+          "abilities": [
+            "teravolt"
+          ]
+        },
+        {
+          "id": "e3c3",
+          "pokeId": 291,
+          "name": "ninjask",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png",
+          "type": "bug",
+          "health": 90,
+          "damage": 45,
+          "speed": 160,
+          "abilities": [
+            "speed-boost",
+            "infiltrator"
+          ]
+        }
+      ],
+      "playerDead": [
+        {
+          "id": "b81d",
+          "pokeId": 3,
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+          "type": "grass",
+          "health": 82,
+          "damage": 83,
+          "speed": 80,
+          "abilities": [
+            "overgrow",
+            "chlorophyll"
+          ]
+        },
+        {
+          "id": "debb",
+          "pokeId": 6,
+          "name": "charizard",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+          "type": "fire",
+          "health": 84,
+          "damage": 78,
+          "speed": 100,
+          "abilities": [
+            "blaze",
+            "solar-power"
+          ]
+        }
+      ],
+      "opponentAlive": [],
+      "opponentDead": [
+        {
+          "pokeId": 707,
+          "name": "klefki",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/707.png",
+          "type": "steel",
+          "health": 57,
+          "damage": 80,
+          "speed": 75,
+          "abilities": [
+            "prankster",
+            "magician"
+          ]
+        },
+        {
+          "pokeId": 757,
+          "name": "salandit",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/757.png",
+          "type": "poison",
+          "health": 48,
+          "damage": 44,
+          "speed": 77,
+          "abilities": [
+            "corrosion",
+            "oblivious"
+          ]
+        },
+        {
+          "pokeId": 134,
+          "name": "vaporeon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+          "type": "water",
+          "health": 130,
+          "damage": 65,
+          "speed": 65,
+          "abilities": [
+            "water-absorb",
+            "hydration"
+          ]
+        },
+        {
+          "pokeId": 335,
+          "name": "zangoose",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/335.png",
+          "type": "normal",
+          "health": 73,
+          "damage": 115,
+          "speed": 90,
+          "abilities": [
+            "immunity",
+            "toxic-boost"
+          ]
+        },
+        {
+          "pokeId": 251,
+          "name": "celebi",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png",
+          "type": "psychic",
+          "health": 100,
+          "damage": 100,
+          "speed": 100,
+          "abilities": [
+            "natural-cure"
+          ]
+        },
+        {
+          "pokeId": 839,
+          "name": "coalossal",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/839.png",
+          "type": "rock",
+          "health": 110,
+          "damage": 80,
+          "speed": 30,
+          "abilities": [
+            "steam-engine",
+            "flame-body",
+            "flash-fire"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "df8f",
+      "date": "4/24/2025, 11:26:01 PM",
+      "result": "win",
+      "playerUsed": [
+        {
+          "id": "92ff",
+          "pokeId": 10044,
+          "name": "mewtwo-mega-y",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10044.png",
+          "type": "psychic",
+          "health": 150,
+          "damage": 70,
+          "speed": 140,
+          "abilities": [
+            "insomnia"
+          ]
+        },
+        {
+          "id": "7273",
+          "pokeId": 643,
+          "name": "reshiram",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png",
+          "type": "dragon",
+          "health": 120,
+          "damage": 100,
+          "speed": 90,
+          "abilities": [
+            "turboblaze"
+          ]
+        },
+        {
+          "id": "aa89",
+          "pokeId": 644,
+          "name": "zekrom",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png",
+          "type": "dragon",
+          "health": 150,
+          "damage": 120,
+          "speed": 90,
+          "abilities": [
+            "teravolt"
+          ]
+        },
+        {
+          "id": "6604",
+          "pokeId": 3,
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+          "type": "grass",
+          "health": 82,
+          "damage": 83,
+          "speed": 80,
+          "abilities": [
+            "overgrow",
+            "chlorophyll"
+          ]
+        },
+        {
+          "id": "a3e5",
+          "pokeId": 10079,
+          "name": "rayquaza-mega",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10079.png",
+          "type": "dragon",
+          "health": 180,
+          "damage": 100,
+          "speed": 115,
+          "abilities": [
+            "delta-stream"
+          ]
+        },
+        {
+          "id": "d68f",
+          "pokeId": 249,
+          "name": "lugia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png",
+          "type": "psychic",
+          "health": 90,
+          "damage": 130,
+          "speed": 110,
+          "abilities": [
+            "pressure",
+            "multiscale"
+          ]
+        }
+      ],
+      "playerAlive": [
+        {
+          "id": "92ff",
+          "pokeId": 10044,
+          "name": "mewtwo-mega-y",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10044.png",
+          "type": "psychic",
+          "health": 150,
+          "damage": 70,
+          "speed": 140,
+          "abilities": [
+            "insomnia"
+          ]
+        },
+        {
+          "id": "7273",
+          "pokeId": 643,
+          "name": "reshiram",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png",
+          "type": "dragon",
+          "health": 120,
+          "damage": 100,
+          "speed": 90,
+          "abilities": [
+            "turboblaze"
+          ]
+        },
+        {
+          "id": "aa89",
+          "pokeId": 644,
+          "name": "zekrom",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png",
+          "type": "dragon",
+          "health": 150,
+          "damage": 120,
+          "speed": 90,
+          "abilities": [
+            "teravolt"
+          ]
+        },
+        {
+          "id": "6604",
+          "pokeId": 3,
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+          "type": "grass",
+          "health": 82,
+          "damage": 83,
+          "speed": 80,
+          "abilities": [
+            "overgrow",
+            "chlorophyll"
+          ]
+        },
+        {
+          "id": "a3e5",
+          "pokeId": 10079,
+          "name": "rayquaza-mega",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10079.png",
+          "type": "dragon",
+          "health": 180,
+          "damage": 100,
+          "speed": 115,
+          "abilities": [
+            "delta-stream"
+          ]
+        },
+        {
+          "id": "d68f",
+          "pokeId": 249,
+          "name": "lugia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png",
+          "type": "psychic",
+          "health": 90,
+          "damage": 130,
+          "speed": 110,
+          "abilities": [
+            "pressure",
+            "multiscale"
+          ]
+        }
+      ],
+      "playerDead": [],
+      "opponentAlive": [],
+      "opponentDead": [
+        {
+          "pokeId": 315,
+          "name": "roselia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/315.png",
+          "type": "grass",
+          "health": 50,
+          "damage": 60,
+          "speed": 65,
+          "abilities": [
+            "natural-cure",
+            "poison-point",
+            "leaf-guard"
+          ]
+        },
+        {
+          "pokeId": 686,
+          "name": "inkay",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/686.png",
+          "type": "dark",
+          "health": 53,
+          "damage": 54,
+          "speed": 45,
+          "abilities": [
+            "contrary",
+            "suction-cups",
+            "infiltrator"
+          ]
+        },
+        {
+          "pokeId": 668,
+          "name": "pyroar",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/668.png",
+          "type": "fire",
+          "health": 86,
+          "damage": 68,
+          "speed": 106,
+          "abilities": [
+            "rivalry",
+            "unnerve",
+            "moxie"
+          ]
+        },
+        {
+          "pokeId": 728,
+          "name": "popplio",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/728.png",
+          "type": "water",
+          "health": 50,
+          "damage": 54,
+          "speed": 40,
+          "abilities": [
+            "torrent",
+            "liquid-voice"
+          ]
+        },
+        {
+          "pokeId": 357,
+          "name": "tropius",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/357.png",
+          "type": "grass",
+          "health": 99,
+          "damage": 68,
+          "speed": 51,
+          "abilities": [
+            "chlorophyll",
+            "solar-power",
+            "harvest"
+          ]
+        },
+        {
+          "pokeId": 38,
+          "name": "ninetales",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+          "type": "fire",
+          "health": 73,
+          "damage": 76,
+          "speed": 100,
+          "abilities": [
+            "flash-fire",
+            "drought"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aec5",
+      "date": "4/24/2025, 11:28:46 PM",
+      "result": "win",
+      "playerUsed": [
+        {
+          "id": "92ff",
+          "pokeId": 10044,
+          "name": "mewtwo-mega-y",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10044.png",
+          "type": "psychic",
+          "health": 150,
+          "damage": 70,
+          "speed": 140,
+          "abilities": [
+            "insomnia"
+          ]
+        },
+        {
+          "id": "7273",
+          "pokeId": 643,
+          "name": "reshiram",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png",
+          "type": "dragon",
+          "health": 120,
+          "damage": 100,
+          "speed": 90,
+          "abilities": [
+            "turboblaze"
+          ]
+        },
+        {
+          "id": "aa89",
+          "pokeId": 644,
+          "name": "zekrom",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png",
+          "type": "dragon",
+          "health": 150,
+          "damage": 120,
+          "speed": 90,
+          "abilities": [
+            "teravolt"
+          ]
+        },
+        {
+          "id": "6604",
+          "pokeId": 3,
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+          "type": "grass",
+          "health": 82,
+          "damage": 83,
+          "speed": 80,
+          "abilities": [
+            "overgrow",
+            "chlorophyll"
+          ]
+        },
+        {
+          "id": "a3e5",
+          "pokeId": 10079,
+          "name": "rayquaza-mega",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10079.png",
+          "type": "dragon",
+          "health": 180,
+          "damage": 100,
+          "speed": 115,
+          "abilities": [
+            "delta-stream"
+          ]
+        },
+        {
+          "id": "d68f",
+          "pokeId": 249,
+          "name": "lugia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png",
+          "type": "psychic",
+          "health": 90,
+          "damage": 130,
+          "speed": 110,
+          "abilities": [
+            "pressure",
+            "multiscale"
+          ]
+        }
+      ],
+      "playerAlive": [
+        {
+          "id": "7273",
+          "pokeId": 643,
+          "name": "reshiram",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png",
+          "type": "dragon",
+          "health": 120,
+          "damage": 100,
+          "speed": 90,
+          "abilities": [
+            "turboblaze"
+          ]
+        },
+        {
+          "id": "6604",
+          "pokeId": 3,
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+          "type": "grass",
+          "health": 82,
+          "damage": 83,
+          "speed": 80,
+          "abilities": [
+            "overgrow",
+            "chlorophyll"
+          ]
+        },
+        {
+          "id": "a3e5",
+          "pokeId": 10079,
+          "name": "rayquaza-mega",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10079.png",
+          "type": "dragon",
+          "health": 180,
+          "damage": 100,
+          "speed": 115,
+          "abilities": [
+            "delta-stream"
+          ]
+        },
+        {
+          "id": "d68f",
+          "pokeId": 249,
+          "name": "lugia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png",
+          "type": "psychic",
+          "health": 90,
+          "damage": 130,
+          "speed": 110,
+          "abilities": [
+            "pressure",
+            "multiscale"
+          ]
+        }
+      ],
+      "playerDead": [
+        {
+          "id": "92ff",
+          "pokeId": 10044,
+          "name": "mewtwo-mega-y",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10044.png",
+          "type": "psychic",
+          "health": 150,
+          "damage": 70,
+          "speed": 140,
+          "abilities": [
+            "insomnia"
+          ]
+        },
+        {
+          "id": "aa89",
+          "pokeId": 644,
+          "name": "zekrom",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png",
+          "type": "dragon",
+          "health": 150,
+          "damage": 120,
+          "speed": 90,
+          "abilities": [
+            "teravolt"
+          ]
+        }
+      ],
+      "opponentAlive": [],
+      "opponentDead": [
+        {
+          "pokeId": 885,
+          "name": "dreepy",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/885.png",
+          "type": "dragon",
+          "health": 28,
+          "damage": 60,
+          "speed": 82,
+          "abilities": [
+            "clear-body",
+            "infiltrator",
+            "cursed-body"
+          ]
+        },
+        {
+          "pokeId": 741,
+          "name": "oricorio-baile",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/741.png",
+          "type": "fire",
+          "health": 75,
+          "damage": 70,
+          "speed": 93,
+          "abilities": [
+            "dancer"
+          ]
+        },
+        {
+          "pokeId": 655,
+          "name": "delphox",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/655.png",
+          "type": "fire",
+          "health": 75,
+          "damage": 69,
+          "speed": 104,
+          "abilities": [
+            "blaze",
+            "magician"
+          ]
+        },
+        {
+          "pokeId": 792,
+          "name": "lunala",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/792.png",
+          "type": "psychic",
+          "health": 137,
+          "damage": 113,
+          "speed": 97,
+          "abilities": [
+            "shadow-shield"
+          ]
+        },
+        {
+          "pokeId": 357,
+          "name": "tropius",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/357.png",
+          "type": "grass",
+          "health": 99,
+          "damage": 68,
+          "speed": 51,
+          "abilities": [
+            "chlorophyll",
+            "solar-power",
+            "harvest"
+          ]
+        },
+        {
+          "pokeId": 438,
+          "name": "bonsly",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/438.png",
+          "type": "rock",
+          "health": 50,
+          "damage": 80,
+          "speed": 10,
+          "abilities": [
+            "sturdy",
+            "rock-head",
+            "rattled"
+          ]
+        }
+      ]
+    }
+  ]
+}
